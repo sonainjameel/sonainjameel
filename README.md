@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on depth and light colour estimation from RGB images.
 
+- 🌱 I’m currently learning Threejs, javascript, R and pytorch.
+  
 - 📫 How to reach me: sonainjameel@gmail.com
 
 
