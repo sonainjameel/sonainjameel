@@ -1,19 +1,34 @@
-### Myself Sonain Jamil
+# Sonain Jamil
 
-<h3 align="center">A passionate researcher.</h3>
+## Welcome to My GitHub!
 
-- 🔭 I’m currently working on JPEG Snack.
+I'm an accomplished Electronics Engineer with a Master's degree from Sejong University, where I was honored with the Outstanding Researcher Award in 2023. My academic journey began with a Bachelor's degree in Telecommunication Engineering from the University of Engineering and Technology, Taxila. My passion for research and innovation in image processing and telecommunications has led me to work alongside esteemed JPEG members, contributing to cutting-edge advancements in the field.
 
-- 🌱 I’m currently learning: <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Threejs" width="20" height="20"/> <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="20" height="20"/> 
+### 🚀 Current Endeavors
 
+- **Project Focus:** I'm currently channeling my efforts into JPEG Snack, an innovative project aimed at enhancing image processing techniques and standards.
+- **Learning Journey:** I'm expanding my skill set by diving into [Three.js](https://threejs.org/) for 3D web graphics and [R](https://www.r-project.org/about.html) for statistical computing and graphics, embracing the continuous learning path that the field of electronics engineering demands.
 
-- 💬 Ask me about MATLAB and image processing.
-  
-- 📫 How to reach me: sonainjameel@gmail.com
+### 💡 Expertise
 
+I specialize in MATLAB and image processing, leveraging these tools to drive research and development in telecommunications and digital imaging. My work is characterized by a deep understanding of the technical nuances and a creative approach to problem-solving.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📫 Connect With Me
+
+Feel free to reach out for collaborations or inquiries about my work at sonainjameel@gmail.com.
+
+### 🛠️ Languages and Tools
+
+- **MATLAB:** My go-to tool for numerical computing and algorithm development.
+- **Python:** I use Python for scripting, data analysis, and building machine learning models.
+- **TensorFlow:** A key framework in my toolbox for implementing deep learning algorithms.
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+</div>
+
 
 <!--
 **sonainjameel/sonainjameel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
