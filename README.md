@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on depth and light colour estimation from RGB images.
 
-- 🌱 I’m currently learning: https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg, javascript, R and pytorch.
+- 🌱 I’m currently learning: Threejs <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Threejs" width="10" height="10"/> <a href="https://www.python.org" target="_blank" rel="noreferrer">, javascript, R and pytorch.
 
 - 💬 Ask me about MATLAB and image processing.
   
