@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3 align="center">A passionate researcher.</h3>
-
+- 🔭 I’m currently working on ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   sonainjameel@gmail.com
