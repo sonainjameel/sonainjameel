@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on depth and light colour estimation from RGB images.
 
 - 🌱 I’m currently learning Threejs, javascript, R and pytorch.
+
+- 💬 Ask me about MATLAB and image processing.
   
 - 📫 How to reach me: sonainjameel@gmail.com
 
