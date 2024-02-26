@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on depth and light colour estimation from RGB images.
 
-- 🌱 I’m currently learning: <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Threejs" width="20" height="20"/> 
+- 🌱 I’m currently learning: <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Threejs" width="20" height="20"/>, <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="20" height="20"/> 
 
 , javascript, R and pytorch.
 
