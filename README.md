@@ -2,6 +2,7 @@
 
 <h3 align="center">A passionate researcher.</h3>
 - 🔭 I’m currently working on depth and light colour estimation from RGB images.
+
 - 📫 How to reach me: sonainjameel@gmail.com
 
 
