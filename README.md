@@ -31,6 +31,14 @@ Feel free to reach out for collaborations or inquiries about my work at sonainja
   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/overleaf.svg" alt="Overleaf" width="40" height="40"/>
 </div>
 
+### 📊 GitHub Stats
+
+![Sonain's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonainjameel&show_icons=true&theme=default)
+
+### 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonainjameel&layout=compact)
+
 
 <!--
 **sonainjameel/sonainjameel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
