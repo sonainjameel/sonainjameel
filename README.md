@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate researcher.</h3>
 
-- 🔭 I’m currently working on depth and light colour estimation from RGB images.
+- 🔭 I’m currently working on JPEG Snack.
 
 - 🌱 I’m currently learning: <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Threejs" width="20" height="20"/> <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="20" height="20"/> 
 
