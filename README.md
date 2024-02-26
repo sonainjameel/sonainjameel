@@ -22,11 +22,13 @@ Feel free to reach out for collaborations or inquiries about my work at sonainja
 - **MATLAB:** My go-to tool for numerical computing and algorithm development.
 - **Python:** I use Python for scripting, data analysis, and building machine learning models.
 - **TensorFlow:** A key framework in my toolbox for implementing deep learning algorithms.
+- **Overleaf:** Proficient in Overleaf for collaborative academic writing and documentation, utilizing LaTeX for high-quality typesetting.
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/overleaf.svg" alt="Overleaf" width="40" height="40"/>
 </div>
 
 
