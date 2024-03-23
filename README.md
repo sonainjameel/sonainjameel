@@ -35,6 +35,8 @@ Feel free to reach out for collaborations or inquiries about my work at sonainja
 
 ![Sonain's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonainjameel&show_icons=true&theme=default)
 
+![Sonain's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sonainjameel&include_all_commits=true&hide_border=false)
+
 ### 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonainjameel&layout=compact)
