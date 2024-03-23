@@ -39,5 +39,6 @@ Feel free to reach out for collaborations or inquiries about my work at sonainja
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonainjameel&layout=compact)
 
+### :trophy: Badges
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonainjameel)](https://github.com/ryo-ma/github-profile-trophy)
