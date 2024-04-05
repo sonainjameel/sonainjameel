@@ -2,11 +2,11 @@
 
 ## Welcome to My GitHub!
 
-I'm an accomplished Electronics Engineer with a Master's degree from Sejong University, where I was honored with the Outstanding Researcher Award in 2023. My academic journey began with a Bachelor's degree in Telecommunication Engineering from the University of Engineering and Technology, Taxila. My passion for research and innovation in image processing and telecommunications has led me to work alongside esteemed JPEG members, contributing to cutting-edge advancements in the field.
+I'm an accomplished Electronics Engineer with a Master's degree from Sejong University, where I was honoured with the Outstanding Researcher Award in 2023. My academic journey began with a Bachelor's degree in Telecommunication Engineering from the University of Engineering and Technology, Taxila. My passion for research and innovation in image processing and telecommunications has led me to work alongside esteemed JPEG members, contributing to cutting-edge advancements in the field.
 
 ### 🚀 Current Endeavors
 
-- **Project Focus:** I'm currently channeling my efforts into JPEG Snack, an innovative project aimed at enhancing image processing techniques and standards.
+- **Project Focus:** I'm currently channelling my efforts into JPEG Snack, an innovative project aimed at enhancing image processing techniques and standards.
 - **Learning Journey:** I'm expanding my skill set by diving into [Three.js](https://threejs.org/) for 3D web graphics and [R](https://www.r-project.org/about.html) for statistical computing and graphics, embracing the continuous learning path that the field of electronics engineering demands.
 
 ### 💡 Expertise
@@ -32,8 +32,6 @@ Feel free to reach out for collaborations or inquiries about my work at sonainja
 </div>
 
 ### 📊 GitHub Stats
-
-![Sonain's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonainjameel&show_icons=true&theme=default)
 
 ![Sonain's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sonainjameel&include_all_commits=true&hide_border=false)
 
