@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub!
 
-I'm an accomplished Electronics Engineer with a Master's degree from Sejong University, where I was honoured with the Outstanding Researcher Award in 2023. My academic journey began with a Bachelor's degree in Telecommunication Engineering from the University of Engineering and Technology, Taxila. My passion for research and innovation in image processing and telecommunications has led me to work alongside esteemed JPEG members, contributing to cutting-edge advancements in the field.
+I'm an accomplished Electronics Engineer with a Master's degree from Sejong University, where I was honoured with the Outstanding Researcher Award in 2023. My academic journey began with a Bachelor's degree in Telecommunication Engineering from the University of Engineering and Technology, Taxila. My passion for research and innovation in image processing and telecommunications has led me to work alongside esteemed JPEG members, contributing to cutting-edge advancements in the field. In 2023, I was also honoured with the Outstanding Reviewer Award by Elsevier.
 
 ### 🚀 Current Endeavors
 
