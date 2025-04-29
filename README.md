@@ -6,7 +6,7 @@ I'm an accomplished Electronics Engineer with a Master's degree from Sejong Univ
 
 ### 🚀 Current Endeavors
 
-- **Project Focus:** I'm currently channelling my efforts into JPEG Snack, an innovative project aimed at enhancing image processing techniques and standards.
+- **Project Focus:** I'm currently working on 3D human reconstruction, novel view synthesis, 3D scene reconstruction and relighting.
 - **Learning Journey:** I'm expanding my skill set by diving into [Three.js](https://threejs.org/) for 3D web graphics and [R](https://www.r-project.org/about.html) for statistical computing and graphics, embracing the continuous learning path that the field of electronics engineering demands.
 
 ### 💡 Expertise
